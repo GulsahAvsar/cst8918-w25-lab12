@@ -1,4 +1,4 @@
-# cst8918-w25-lab12
+# CST8918-W25-LAB12
 
 **Team Members:**
 - Gulsah Avsar - avsa0005 [Gulsah Avsar GitHub Profile](https://github.com/GulsahAvsar)
